@@ -41,7 +41,7 @@ export default function HeaderOne({ variant }) {
                                     <li className="menu-item-has-children"><a href="#">Inicio</a>
                                         <DropDown />
                                         <ul className="sub-menu">
-                                            <Home />
+                                            {/* <Home /> */}
                                         </ul>
                                     </li>
                                     <li className="menu-item-has-children"><a href="#">Propiedades</a>

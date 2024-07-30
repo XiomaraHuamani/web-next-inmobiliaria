@@ -15,7 +15,7 @@ const footerOne = {
     officeInfos: [
         {link:'https://maps.app.goo.gl/yvRKr3jtjGTjFZi78',info:' Urb Magisterial II Av Quiñones Mz E Lote 12 - Yanahuara Arequipa',icon: <i className="fal fa-map-marked-alt"></i>},
         {link:'mailto:info@territorialinmobiliaria.com',info:'info@territorialinmobiliaria.com',icon: <i className="fal fal fa-envelope-open-text"></i>},
-        // {link:'tel:+125(895)658568',info:'+125 (895) 658 568',icon: <i className='fal fa-phone-alt'></i>}
+        {link:'tel:+5199999',info:'+51 9999999',icon: <i className='fal fa-phone-alt'></i>}
     ],
   }
 
