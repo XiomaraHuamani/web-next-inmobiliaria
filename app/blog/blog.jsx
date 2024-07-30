@@ -17,8 +17,8 @@ export default function Blog() {
         <div className="row mb-30">
           <div className="col-xl-12">
             <div className="blog__area-title">
-              <span className="subtitle__one">Our Blog</span>
-              <h2>Read Our Blog and News</h2>
+              <span className="subtitle__one">Nuestro Blog</span>
+              <h2>Lea nuestro blog y noticias</h2>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@ export default function Blog() {
                       className="simple-btn-2"
                       href={`/blog-details/${blog.id}`}
                     >
-                      Read More
+                      Ver mas
                       <i className="fal fa-long-arrow-right"></i>
                     </Link>
                   </div>

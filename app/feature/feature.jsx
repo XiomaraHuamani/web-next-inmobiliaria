@@ -68,7 +68,7 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6">
             <div className="feature__area-image">
               <Image
-                src="/img/features/feature-3.jpg"
+                src="/img/services/investigacion-mercado.png"
                 alt=""
                 width={600}
                 height={600}
@@ -78,20 +78,21 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6">
             <div className="feature__area-left">
               <div className="feature__area-left-title p-4">
-                <span className="subtitle__one">Fitness Equipment</span>
-                <h2>Exercise equipment</h2>
+                <span className="subtitle__one">Investigacion de mercado</span>
+                <h2>Planificación y Desarrollo de Proyectos</h2>
                 <p>
-                  Proin massa augue, lacinia at blandit ac, fringilla
-                  scelerisque tortor. Mauris sit amet lectus porta,
+                Permite una mejor planificación y desarrollo de proyectos, 
+                asegurando que los nuevos desarrollos inmobiliarios estén 
+                alineados con la demanda del mercado.
                 </p>
                 <Link className="theme-border-btn" href="/about">
-                  Read More <FaArrowRight className="ml-10" />
+                  Ver mas<FaArrowRight className="ml-10" />
                 </Link>
               </div>
             </div>
           </div>
         </div>
-        <div className="row align-items-center bg-right flex justify-between">
+        {/* <div className="row align-items-center bg-right flex justify-between">
           <div className="col-xl-6 col-lg-6 order-last order-lg-first">
             <div className="feature__area-left">
               <div className="feature__area-left-title">
@@ -116,8 +117,8 @@ export default function Feature() {
                 height={600}
               />
             </div>
-          </div>
-        </div>
+          </div> 
+        </div>*/}
       </div>
     </div>
   );
