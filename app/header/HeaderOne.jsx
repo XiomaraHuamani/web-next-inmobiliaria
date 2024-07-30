@@ -38,25 +38,26 @@ export default function HeaderOne({ variant }) {
                         <div className="header__area-menubar-right">
                             <div className="header__area-menubar-right-menu menu-responsive">
                                 <ul className="mobile__menu" style={{ display: `${mobileToggle ? "block" : "none"}` }}>
-                                    <li className="menu-item-has-children"><a href="#">Inicio</a>
+                                
+                                    <li className="menu-item-has-children"><a href="/">Inicio</a>
                                         <DropDown />
-                                        <ul className="sub-menu">
-                                            {/* <Home /> */}
-                                        </ul>
+                                        {/* <ul className="sub-menu">
+                                            <Home />
+                                        </ul> */}
                                     </li>
-                                    <li className="menu-item-has-children"><a href="#">Propiedades</a>
+                                    <li className="menu-item-has-children"><a href="/">Propiedades</a>
                                         <DropDown />
                                         <ul className="sub-menu">
                                             <Page />
                                         </ul>
                                     </li>
-                                    <li className="menu-item-has-children"><a href="#">Proyectos</a>
+                                    <li className="menu-item-has-children"><a href="/">Proyectos</a>
                                         <DropDown />
                                         <ul className="sub-menu">
                                             <Room />
                                         </ul>
                                     </li>
-                                    <li className="menu-item-has-children"><a href="#">Blog</a>
+                                    <li className="menu-item-has-children"><a href="/">Blog</a>
                                         <DropDown />
                                         <ul className="sub-menu">
                                             <Blog />

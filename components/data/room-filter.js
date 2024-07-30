@@ -2,14 +2,14 @@ const roomFilter = {
   filters: [
     {
       id: 1,
-      name: "Departamentos",
+      name: "Todo",
       filterData: "filter-item",
     },
-    // {
-    //   id: 2,
-    //   name: "Casas",
-    //   filterData: "luxury",
-    // },
+    {
+      id: 2,
+      name: "Departamentos",
+      filterData: "Departamento",
+    },
     // {
     //   id: 3,
     //   name: "Oficinas",
@@ -23,7 +23,7 @@ const roomFilter = {
     {
       id: 5,
       name: "Lotes y Terrenos",
-      filterData: "family",
+      filterData: "Terreno",
     },
   ],
 
@@ -31,18 +31,18 @@ const roomFilter = {
     {
       id: 1,
       image: "/img/departamentos/duplex-lafonda.png",
-      title: "Duplex - La fonda",
+      title: "Departamento duplex - La fonda",
       price: "134",
       class_s: "col-xl-3 col-lg-4 mt-30",
-      filter: ["suite"],
+      filter: ["Departamento"],
     },
     {
       id: 2,
       image: "/img/departamentos/duplex-yanahuara.png",
-      title: "Duplex - Yanahuara",
+      title: "Departamento duplex - Yanahuara",
       price: "199",
       class_s: "col-xl-6 col-lg-8 mt-30",
-      filter: ["suite"],
+      filter: ["Departamento"],
     },
     {
       id: 3,
@@ -50,24 +50,24 @@ const roomFilter = {
       title: "Departamento Yanahuara",
       price: "319",
       class_s: "col-xl-3 col-lg-4 mt-30",
-      filter: ["family"],
+      filter: ["Departamento"],
     },
-    // {
-    //   id: 4,
-    //   image: "/img/luxury/luxury-4.jpg",
-    //   title: "Single Room",
-    //   price: "169",
-    //   class_s: "col-xl-6 col-lg-8 mt-30",
-    //   filter: ["single"],
-    // },
-    // {
-    //   id: 5,
-    //   image: "/img/luxury/luxury-5.jpg",
-    //   title: "Luxury Room",
-    //   price: "249",
-    //   class_s: "col-xl-6 mt-30",
-    //   filter: ["luxury"],
-    // },
+    {
+      id: 4,
+      image: "/img/departamentos/departamento-amoblado.png",
+      title: "Departamento amoblado",
+      price: "169",
+      class_s: "col-xl-6 col-lg-8 mt-30",
+      filter: ["Departamento"],
+    },
+    {
+      id: 5,
+      image: "/img/luxury/luxury-4.jpg",
+      title: "Terrenos QuintaTawa",
+      price: "249",
+      class_s: "col-xl-6 mt-30",
+      filter: ["Terreno"],
+    },
   ],
 };
 

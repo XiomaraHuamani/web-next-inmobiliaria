@@ -29,6 +29,7 @@ const Deluxe = () => {
                 <h2>Descubre que te interesa</h2>
               </div>
             </div>
+            
             <div className="col-xl-7">
               <div className="deluxe__area-btn">
                 <ul>

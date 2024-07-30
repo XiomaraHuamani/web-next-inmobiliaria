@@ -10,7 +10,7 @@ const RoomItem = ({ project = {} }) => {
             <div className="deluxe__area-item-content"> 
                 <h6><span>${price}</span> / Vendido</h6>
                 <h4><Link href="/room-details">{title}</Link></h4>
-                <Link className="simple-btn" href="/contact"><i className="far fa-chevron-right"></i>Mas Informacion</Link> 
+                <Link className="simple-btn" href="/contact"><i className="far fa-chevron-right"></i>Contactanos</Link> 
             </div>
         </>
     );

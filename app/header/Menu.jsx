@@ -9,8 +9,8 @@ export const Home = () => (
 );
 export const Page = () => (
     <Fragment>
-        <li><Link href="/about">About</Link></li>
-        <li><Link href="/team">Team</Link></li>
+        {/* <li><Link href="/about">About</Link></li> */}
+        <li><Link href="/team">Asesores</Link></li>
         <li><Link href="/services-details">Services Details</Link></li>
         <li><Link href="/404-error">404 Page</Link></li>
     </Fragment>
