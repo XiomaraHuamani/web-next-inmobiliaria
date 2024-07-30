@@ -62,7 +62,7 @@ const roomFilter = {
     },
     {
       id: 5,
-      image: "/img/luxury/luxury-4.jpg",
+      image: "/img/departamentos/5tawa.png",
       title: "Terrenos QuintaTawa",
       price: "249",
       class_s: "col-xl-6 mt-30",
