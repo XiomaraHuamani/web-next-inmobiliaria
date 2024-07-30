@@ -8,9 +8,9 @@ import Contactcontainer from "./contact-container";
 const Contact = () => {
   return (
     <>
-      <SEO pageTitle="Contact Us" />
+      <SEO pageTitle="Contactanos" />
         <HeaderOne />
-        <BreadCrumb title="Contact Us" innerTitle="Contact Us" bgImage="/img/banner/page-banner-5.jpg"/>
+        <BreadCrumb title="Contactanos" innerTitle="Contactanos" bgImage="/img/departamentos/header-contact.png"/>
         <Contactcontainer />
         <Footer />
         <ScrollToTopButton />

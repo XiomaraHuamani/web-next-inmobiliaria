@@ -11,7 +11,7 @@ export default function Feature() {
             <div className="feature__area-image">
               <Image
                 alt=""
-                src="/img/features/feature-1.jpg"
+                src="/img/services/marketing-digital1.png"
                 width={600}
                 height={600}
               />
@@ -20,14 +20,16 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6">
             <div className="feature__area-left">
               <div className="feature__area-left-title">
-                <span className="subtitle__one">Our Food</span>
-                <h2>Restaurant Silo</h2>
+                <span className="subtitle__one">Marketing Inmobiliario</span>
+                <h2>Atracción de Clientes Potenciales</h2>
                 <p>
-                  Proin massa augue, lacinia at blandit ac, fringilla
-                  scelerisque tortor. Mauris sit amet lectus porta,
+                Nuestras campañas de marketing estratégicamente diseñadas 
+                captan la atención de clientes interesados en comprar, 
+                vender o alquilar propiedades, asegurando un flujo 
+                constante de prospectos calificados.
                 </p>
                 <Link className="theme-border-btn" href="/about">
-                  Read More <FaArrowRight className="ml-10" />
+                  Ver mas <FaArrowRight className="ml-10" />
                 </Link>
               </div>
             </div>
@@ -37,14 +39,16 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6  order-last order-lg-first">
             <div className="feature__area-left">
               <div className="feature__area-left-title">
-                <span className="subtitle__one">Read Our Books</span>
-                <h2>The Library</h2>
+                <span className="subtitle__one">Proyectos inmobiliarios</span>
+                <h2>Desarrollo Comercial</h2>
                 <p>
-                  Proin massa augue, lacinia at blandit ac, fringilla
-                  scelerisque tortor. Mauris sit amet lectus porta,
+                Potencia tu negocio con nuestro análisis de mercado integral, 
+                selección de ubicaciones estratégicas y estrategias de marketing 
+                B2B avanzadas que garantizan máxima visibilidad y conexión con
+                los mejores inquilinos.
                 </p>
                 <Link className="theme-border-btn" href="/about">
-                  Read More <FaArrowRight className="ml-10" />
+                  Ver mas <FaArrowRight className="ml-10" />
                 </Link>
               </div>
             </div>
@@ -52,7 +56,7 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6">
             <div className="feature__area-image">
               <Image
-                src="/img/features/feature-2.jpg"
+                src="/img/services/posicionamiento-comercial.png"
                 alt=""
                 width={600}
                 height={600}

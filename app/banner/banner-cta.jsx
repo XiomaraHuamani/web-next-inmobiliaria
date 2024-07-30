@@ -45,7 +45,7 @@ const BannerCta = () => {
           </div>
           <div className="check__area-item button">
             <button className="theme-btn" type="submit">
-              Check Now
+              Buscar
             </button>
           </div>
         </div>

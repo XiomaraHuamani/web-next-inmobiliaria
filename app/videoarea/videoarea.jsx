@@ -5,7 +5,7 @@ import ModalVideo from "react-modal-video";
 export default function Videoarea() {
   const [isOpen, setOpen] = useState(false);
   return (
-    <div className="video__area" style={{ backgroundImage: `url('/img/video.jpg')` }}>
+    <div className="video__area" style={{ backgroundImage: `url('/img/departamentos/portada-5tawa.png')` }}>
       <div className="container">
         <div className="row align-items-center">
           {/* Title */}
