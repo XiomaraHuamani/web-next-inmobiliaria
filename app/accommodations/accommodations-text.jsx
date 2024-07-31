@@ -11,7 +11,7 @@ const Accommodationstext = () => {
         </p>
         <Link className="theme-btn" href="/about">
             Ver mas <i className="fal fa-long-arrow-right"></i>
-        </Link>
+        </Link> 
       </div>
     </div>
   );

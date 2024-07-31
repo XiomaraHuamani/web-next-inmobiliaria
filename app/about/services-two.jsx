@@ -1,8 +1,9 @@
 "use client";
 import Image from "next/image";
-import CarParking from "../../public/img/icon/car-parking.png";
-import Locaion1 from "../../public/img/icon/location-1.png";
-import SwimmingPool from "../../public/img/icon/swimming-pool.png";
+import Seguridad from "../../public/img/quinta-tawa/seguridad.png";
+import Natural from "../../public/img/quinta-tawa/natural.png";
+import Terreno from "../../public/img/quinta-tawa/terreno.png";
+import Vip from "../../public/img/quinta-tawa/vip.png";
 
 const Servicestwo = () => {
   return (
@@ -14,13 +15,12 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>01</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={Locaion1} />
+                  <Image alt="" layout="responsive" src={Seguridad} />
                 </div>
                 <div className="services__two-item-content">
-                  <h4>Room Cleaning</h4>
+                  <h4>Seguridad Permanente</h4>
                   <p>
-                    Proin massa augue, lacinia at blandit ac, Fringilla
-                    scelerisque tortor. Mauris
+                  Vigilancia las 24 horas del día, los 365 días del año para tu tranquilidad y la de tu familia.
                   </p>
                 </div>
               </div>
@@ -29,13 +29,12 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>02</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={CarParking} />
+                  <Image alt="" layout="responsive" src={Natural} />
                 </div>
                 <div className="services__two-item-content">
-                  <h4>Car Parking</h4>
+                  <h4>Entorno Natural</h4>
                   <p>
-                    Proin massa augue, lacinia at blandit ac, Fringilla
-                    scelerisque tortor. Mauris
+                  Ubicado en un área ecológica y natural, perfecto para disfrutar de un estilo de vida saludable y en contacto con la naturaleza.
                   </p>
                 </div>
               </div>
@@ -44,13 +43,12 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>03</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={SwimmingPool} />
+                  <Image alt="" layout="responsive" src={Terreno} />
                 </div>
                 <div className="services__two-item-content">
-                  <h4>Swimming pool</h4>
+                  <h4>Amplios Lotes</h4>
                   <p>
-                    Proin massa augue, lacinia at blandit ac, Fringilla
-                    scelerisque tortor. Mauris
+                  Terrenos desde 236.02 m², ideales para construir la casa de tus sueños con amplio espacio para jardines y áreas recreativas.
                   </p>
                 </div>
               </div>
@@ -59,13 +57,12 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>04</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={Locaion1} />
+                  <Image alt="" layout="responsive" src={Vip} />
                 </div>
                 <div className="services__two-item-content">
-                  <h4>PickUp & Drop</h4>
+                  <h4>Comunidad Exclusiva</h4>
                   <p>
-                    Proin massa augue, lacinia at blandit ac, Fringilla
-                    scelerisque tortor. Mauris
+                  Vive rodeado de vecinos que comparten tu estilo de vida y valores.
                   </p>
                 </div>
               </div>

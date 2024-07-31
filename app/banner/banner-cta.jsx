@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 const BannerCta = () => {
   return (
     <div className="row">
@@ -44,9 +46,11 @@ const BannerCta = () => {
             </div>
           </div>
           <div className="check__area-item button">
-            <button className="theme-btn" type="submit">
-              Buscar
-            </button>
+            <Link href="/about" passHref>
+              <button className="theme-btn">
+                Buscar
+              </button>
+            </Link>
           </div>
         </div>
       </form>

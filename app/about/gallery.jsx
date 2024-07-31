@@ -2,10 +2,10 @@
 
 const galleryData = {
   galleryImage: [
-    { image: "/img/features/gallery-1.jpg" },
-    { image: "/img/features/gallery-2.jpg" },
-    { image: "/img/features/gallery-3.jpg" },
-    { image: "/img/features/gallery-4.jpg" },
+    { image: "/img/quinta-tawa/img1.png" },
+    { image: "/img/quinta-tawa/img2.png" },
+    { image: "/img/quinta-tawa/img3.png" },
+    { image: "/img/quinta-tawa/img4.png" },
   ],
 };
 

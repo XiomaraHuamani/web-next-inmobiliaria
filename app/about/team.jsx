@@ -10,8 +10,8 @@ const Team = () => {
         <div className="row mb-30">
           <div className="col-xl-12">
             <div className="team__area-title">
-              <span className="subtitle__one">Our Exprt Meamber</span>
-              <h2>Expert Our Services man</h2>
+              <span className="subtitle__one">Expertos en el rubro inmobiliarios</span>
+              <h2>Tus asesores de confianza</h2>
             </div>
           </div>
         </div>

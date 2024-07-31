@@ -12,9 +12,9 @@ import SEO from "@/components/seo";
 const About = () => {
   return (
     <>
-      <SEO pageTitle='About Us' />
+      <SEO pageTitle='Quinta Tawa' />
         <HeaderOne />
-        <BreadCrumb title="About Us" innerTitle="About Us" bgImage="/img/banner/page-banner-1.jpg"/>
+        <BreadCrumb title="Propiedades" innerTitle="Quinta Tawa" bgImage="/img/departamentos/header-terrenos.png"/>
         <Offerarea />
         <Servicestwo />
         <Gallery />
