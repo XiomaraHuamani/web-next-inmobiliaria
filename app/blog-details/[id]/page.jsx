@@ -13,7 +13,7 @@ const Blogdetails = () => {
       <BreadCrumb
         title="Blog"
         innerTitle="Blog "
-        bgImage="/img/banner/page-banner-2.jpg"
+        bgImage="/img/departamentos/header-contact.png"
       />
       <Blogdetailscontainer />
       <Footer />

@@ -39,27 +39,6 @@ const Blogcomment = ({ blogsData }) => {
           <p>{blogsData.frase}</p>
           <h5>{blogsData.postby}</h5>
         </div>
-
-        <div className="row mt-40 mb-40">
-          <div className="col-sm-6 sm-mb-30">
-            <div className="blog__details-left-list">
-              <img
-                className="img__full"
-                src="/img/blog/blog-11.jpg"
-                alt="blog-11"
-              />
-            </div>
-          </div>
-          <div className="col-sm-6">
-            <div className="blog__details-left-list blog__details-left-list-hover">
-              <img
-                className="img__full"
-                src="/img/blog/blog-12.jpg"
-                alt="blog-12"
-              />
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   );
