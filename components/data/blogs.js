@@ -12,6 +12,8 @@ const blogs = [
     title: "Guías de Compra y Venta de Propiedades",
     detalles:
       "<p>Comprar una propiedad es una decisi&oacute;n significativa que requiere una planificaci&oacute;n cuidadosa y una evaluaci&oacute;n detallada. Si est&aacute;s buscando un lugar que combine privacidad, seguridad y un entorno natural inigualable, Quinta Tawa podr&iacute;a ser tu opci&oacute;n ideal. En este blog, te ofrecemos una gu&iacute;a para ayudarte a descubrir lo que hace de Quinta Tawa un proyecto inmobiliario destacado en Arequipa.<br><strong>&iquest;Qu&eacute; es Quinta Tawa?</strong></p><p>Quinta Tawa es un innovador proyecto inmobiliario ubicado en el distrito de Saband&iacute;a, Arequipa. Este exclusivo desarrollo ofrece lotes en venta que se destacan por su privacidad y seguridad, garantizando un entorno ideal para todos los miembros de la familia. Con terrenos que comienzan en 236.02 m&sup2;, Quinta Tawa est&aacute; dise&ntilde;ado para aquellos que buscan una vida en armon&iacute;a con la naturaleza, sin sacrificar la comodidad y la protecci&oacute;n.<br>Beneficios de Vivir en Quinta Tawa<br><strong>&iquest;C&oacute;mo Comprar un Lote en Quinta Tawa?</strong><br><strong>1. Investigaci&oacute;n Inicial</strong></p><p>Antes de tomar una decisi&oacute;n, realiza una investigaci&oacute;n exhaustiva sobre el proyecto. Visita el sitio, eval&uacute;a las caracter&iacute;sticas del entorno y verifica los detalles del desarrollo. Contacta con el equipo de ventas de Quinta Tawa para obtener informaci&oacute;n detallada y aclarar cualquier duda que puedas tener.<br><strong>2. Consulta con un Agente Inmobiliario</strong></p><p>Considera trabajar con un agente inmobiliario especializado que pueda guiarte a trav&eacute;s del proceso de compra. Un profesional experimentado puede ayudarte a negociar el precio, revisar los documentos legales y asegurar una transacci&oacute;n sin problemas.<br><strong>3. Revisa los Documentos y Contratos</strong></p><p>Aseg&uacute;rate de revisar todos los documentos y contratos relacionados con la compra del lote. Verifica que toda la informaci&oacute;n est&eacute; correcta y que no haya condiciones ocultas. Es recomendable contar con la asesor&iacute;a de un abogado especializado en bienes ra&iacute;ces para proteger tus intereses.<br><strong>4. Cierre de la Compra</strong></p><p>Una vez que est&eacute;s satisfecho con todos los aspectos del proyecto y los documentos est&eacute;n en orden, procede con el cierre de la compra. Aseg&uacute;rate de seguir todos los pasos necesarios para completar la transacci&oacute;n de manera segura y eficiente.</p>",
+    frase:
+      "  En Quinta Tawa, tu seguridad es nuestra prioridad. Verifica todos            los detalles y consulta con nuestros expertos para asegurar una            inversión segura y confiable. Tu precaución garantiza una compra sin            sorpresas.",
   },
   {
     id: "2",
@@ -21,11 +23,13 @@ const blogs = [
     date: "25",
     month: "Marzo",
     year: "2024",
-    postby: "Admin",
+    postby: "Andrés Lopez",
     comment: "5",
     title: "Tendencias del Mercado Inmobiliario",
     detalles:
-      "<div><p>Este departamento amoblado de 110 metros cuadrados combina elegancia y confort en una ubicación exclusiva en Arequipa.</p><p><strong>Características principales:</strong></p><ul><li>2 habitaciones espaciosas que garantizan tu comodidad.</li><li>1 baño privado para las habitaciones.</li><li>1 baño adicional de uso común.</li><li>Amplia sala-comedor ideal para momentos en familia o con amigos.</li><li>Cocina equipada y funcional que te permitirá preparar tus platos favoritos.</li><li>Un patio que brinda un espacio al aire libre para relajarse.</li><li>Cochera para tu vehículo, asegurando su seguridad.</li><li>Acceso a terraza.</li><li>Ubicado en el tercer piso.</li></ul></div>",
+      "<h3>Descubre Quinta Tawa</h3><p>Bienvenido a Quinta Tawa, uno de los proyectos inmobiliarios m&aacute;s destacados de Territorial, ubicado en el encantador distrito de Sabandia en Arequipa. Ofrecemos lotes en venta desde 236.02 m&sup2;, en un entorno natural y ecol&oacute;gico perfecto para todas las edades. Aqu&iacute;, la privacidad y seguridad son primordiales, con vigilancia los 365 d&iacute;as del a&ntilde;o. Vive la experiencia &uacute;nica de un hogar rodeado de naturaleza, dise&ntilde;ado para brindarte el estilo de vida que siempre has so&ntilde;ado.</p><h3>&iquest;Por qu&eacute; Elegir Quinta Tawa?</h3><ul><li><strong>Entorno Natural y Ecol&oacute;gico</strong>: Paisajes impresionantes y pr&aacute;cticas sostenibles.</li><li><strong>Privacidad y Seguridad</strong>: Vigilancia las 24 horas del d&iacute;a, los 365 d&iacute;as del a&ntilde;o.</li><li><strong>Lotes Amplios y Vers&aacute;tiles</strong>: Lotes desde 236.02 m&sup2;, ideales para construir la casa de tus sue&ntilde;os.</li></ul><h3>Consejos para Invertir en Propiedades en Entornos Naturales</h3><ol><li><strong>Investiga el Proyecto</strong>: Conoce la trayectoria del desarrollador y los planes futuros.</li><li><strong>Visita el Lugar</strong>: Aseg&uacute;rate de que cumple con tus expectativas y habla con vecinos.</li><li><strong>Eval&uacute;a la Seguridad</strong>: Verifica las medidas de seguridad implementadas.</li><li><strong>Consulta con Profesionales</strong>: Trabaja con un agente inmobiliario y consulta con un abogado.</li></ol><h3>Vive la Experiencia Quinta Tawa</h3><p>Quinta Tawa ofrece una vida en armon&iacute;a con la naturaleza, en un entorno tranquilo, seguro y exclusivo. &iexcl;Vis&iacute;tanos y descubre el hogar de tus sue&ntilde;os en Arequipa!</p><h3>Contacto</h3><p>Para m&aacute;s informaci&oacute;n, cont&aacute;ctanos a trav&eacute;s de nuestro sitio web o visita nuestras oficinas. Estamos aqu&iacute; para ayudarte a encontrar el hogar perfecto para ti y tu familia.</p>",
+    frase:
+      "Encuentra tu hogar ideal en Quinta Tawa, Sabandia, Arequipa. Disfruta de un entorno natural, seguro y exclusivo, diseñado para brindarte el estilo de vida que siempre has soñado. ¡Descubre la experiencia única de vivir en armonía con la naturaleza!",
   },
   {
     id: "3",
@@ -35,9 +39,13 @@ const blogs = [
     date: "29",
     month: "Mayo",
     year: "2024",
-    postby: "Admin",
+    postby: "Francoise Montaño",
     comment: "3",
     title: "Consejos para Inversores Inmobiliarios",
+    detalles:
+      "<h3>Introducci&oacute;n</h3><p>Invertir en bienes ra&iacute;ces es una decisi&oacute;n significativa y puede ser muy rentable. Para asegurarte de que tu inversi&oacute;n sea segura y fruct&iacute;fera, sigue estos consejos esenciales. Hoy, te presentamos Quinta Tawa, un proyecto destacado en Sabandia, Arequipa, que combina naturaleza, seguridad y exclusividad.</p><h3>Investiga el Proyecto</h3><p>Antes de invertir, investiga a fondo el proyecto y al desarrollador. Con Quinta Tawa, tienes la tranquilidad de estar respaldado por Territorial, un desarrollador con una s&oacute;lida reputaci&oacute;n y proyectos anteriores exitosos. Adem&aacute;s, investiga los planes futuros para la zona, como desarrollos urbanos y servicios, que podr&iacute;an aumentar el valor de tu inversi&oacute;n.</p><h3>Visita el Lugar</h3><p>Visitar el lugar en persona es crucial. En Quinta Tawa, recorrer el &aacute;rea te permitir&aacute; apreciar el entorno natural y ecol&oacute;gico que ofrecemos. Habla con los vecinos y obt&eacute;n opiniones de primera mano sobre la calidad de vida y la seguridad en la zona.</p><h3>Eval&uacute;a la Seguridad</h3><p>La seguridad es fundamental en cualquier inversi&oacute;n inmobiliaria. Quinta Tawa ofrece vigilancia permanente los 365 d&iacute;as del a&ntilde;o, garantizando la tranquilidad de sus residentes. Aseg&uacute;rate de que el proyecto ofrezca el nivel de privacidad y protecci&oacute;n que buscas.</p>",
+    frase:
+      "Invierte en Quinta Tawa y disfruta de un entorno natural, seguro y exclusivo en Sabandia, Arequipa.",
   },
   {
     id: "4",

@@ -7,7 +7,7 @@ import { useState } from "react";
 export default function Blog() {
   const blogs = blogsData.slice(0, 3);
   const [active, setActive] = useState(1);
-  const handelActive = (index) => {
+  const handleActive = (index) => {
     setActive(index);
   };
 
@@ -24,13 +24,12 @@ export default function Blog() {
         </div>
         <div className="row">
           {blogs?.map((blog, index) => (
-            <div key={index} className="col-xl-4 col-lg-6 mt-30">
+            <div key={blog.id} className="col-xl-4 col-lg-6 mt-30">
               <div
                 className={`blog__area-item ${
                   active === index ? "blog__area-item-hover" : ""
                 }`}
-                key={index}
-                onMouseEnter={() => handelActive(index)}
+                onMouseEnter={() => handleActive(index)}
               >
                 <div className="blog__area-item-image">
                   <Link href={`/blog-details/${blog.id}`}>
@@ -39,6 +38,7 @@ export default function Blog() {
                       alt="blog-image"
                       width={500}
                       height={500}
+                      style={{ objectFit: "cover" }} // Ajuste para estilo
                     />
                   </Link>
                 </div>

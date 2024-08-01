@@ -1,18 +1,24 @@
 const Blogcomment = ({ blogsData }) => {
+  if (!blogsData) {
+    return <p>No data available</p>;
+  }
+
+  // Asegúrate de que todos los datos sean consistentes entre el servidor y el cliente
   return (
     <div className="col-xxl-9 col-xl-8 col-lg-8 lg-mb-30">
       <div className="blog__details-left">
-        <img src={blogsData.img} alt="" />
+        <img src={blogsData.img} alt={blogsData.title} />
         <div className="blog__details-left-meta">
           <ul>
             <li>
               <a href="#">
-                <i className="fal fa-user"></i>By -{/*  {blogsData.postby} */}
+                <i className="fal fa-user"></i>realizado - {blogsData.postby}
               </a>
             </li>
             <li>
               <a href="#">
-                <i className="fal fa-calendar-alt"></i>07, March 2023
+                <i className="fal fa-calendar-alt"></i>
+                {blogsData.date}/{blogsData.month}/{blogsData.year}
               </a>
             </li>
           </ul>
@@ -28,45 +34,32 @@ const Blogcomment = ({ blogsData }) => {
         <p></p>
         <div className="blog__details-left-box">
           <div className="blog__details-left-box-icon">
-            <img src="/img/icon/quote.png" alt="" />
+            <img src="/img/icon/quote.png" alt="quote" />
           </div>
-          <p>
-            En Quinta Tawa, tu seguridad es nuestra prioridad. Verifica todos
-            los detalles y consulta con nuestros expertos para asegurar una
-            inversión segura y confiable. Tu precaución garantiza una compra sin
-            sorpresas.{" "}
-          </p>
-          <h5>Nils Castillo </h5>
+          <p>{blogsData.frase}</p>
+          <h5>{blogsData.postby}</h5>
         </div>
-        <p>
-          Vestibulum eget tellus rhoncus, dictum massa a, mattis massa. Cras in
-          leo semper, ultricies ligula nec, ornare tellus. Suspendisse quam
-          risus, semper et ultricies a, commodo eu tortor. Phasellus elementum
-          tincidunt varius. Nam facilisis, ante eget gravida vestibulum, ante
-          nisi feugiat nulla, in dapibus neque turpis et dolor. Vestibulum in
-          urna urna.
-        </p>
+
         <div className="row mt-40 mb-40">
           <div className="col-sm-6 sm-mb-30">
             <div className="blog__details-left-list">
-              <img className="img__full" src="/img/blog/blog-11.jpg" alt="" />
+              <img
+                className="img__full"
+                src="/img/blog/blog-11.jpg"
+                alt="blog-11"
+              />
             </div>
           </div>
           <div className="col-sm-6">
             <div className="blog__details-left-list blog__details-left-list-hover">
-              <img className="img__full" src="/img/blog/blog-12.jpg" alt="" />
+              <img
+                className="img__full"
+                src="/img/blog/blog-12.jpg"
+                alt="blog-12"
+              />
             </div>
           </div>
         </div>
-        <p className="mb-30">
-          Design pretium fermentum quam, sit amet cursus ante sollicitudin vel.
-          Morbi consequat risus consequat, porttitor orci sit amet, iaculis
-          nisl. Integer quis sapien neceli ultrices euismod sit amet id lacus.
-          Sed a imperdiet erat. Duis eu est dignissim lacus dictum hendrerit
-          quis vitae mi. Fusce eu nulla ac nisi cursus tincidun. Interdum et
-          malesuada fames ac ante ipsum primis in faucibus. Integer tristique
-          sem eget leo faucibus porttitor.
-        </p>
       </div>
     </div>
   );
