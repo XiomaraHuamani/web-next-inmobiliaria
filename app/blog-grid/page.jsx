@@ -8,12 +8,16 @@ import Bloggridcontainer from "./blog-grid-container";
 const Bloggrid = () => {
   return (
     <>
-      <SEO pageTitle='Blog Grid' />
-        <HeaderOne />
-        <BreadCrumb title='Blog Grid' innerTitle='Blog Grid' bgImage='/img/banner/page-banner-3.jpg' />
-        <Bloggridcontainer />
-        <Footer />
-        <ScrollToTopButton />
+      <SEO pageTitle="Blog Grid" />
+      <HeaderOne />
+      <BreadCrumb
+        title="Blog "
+        innerTitle="Blog "
+        bgImage="/img/departamentos/header-contact.png"
+      />
+      <Bloggridcontainer />
+      <Footer />
+      <ScrollToTopButton />
     </>
   );
 };
