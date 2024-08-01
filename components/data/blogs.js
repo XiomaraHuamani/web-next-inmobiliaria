@@ -7,7 +7,7 @@ const blogs = [
     date: "21",
     month: "Enero",
     year: "2024",
-    postby: "Jhonathan Gonzales",
+    postby: "Paulo Castro",
     comment: "3",
     title: "Guías de Compra y Venta de Propiedades",
     detalles:
@@ -23,7 +23,7 @@ const blogs = [
     date: "25",
     month: "Marzo",
     year: "2024",
-    postby: "Andrés Lopez",
+    postby: "Patricia Medina",
     comment: "5",
     title: "Tendencias del Mercado Inmobiliario",
     detalles:
@@ -39,7 +39,7 @@ const blogs = [
     date: "29",
     month: "Mayo",
     year: "2024",
-    postby: "Francoise Montaño",
+    postby: "Julio vargas",
     comment: "3",
     title: "Consejos para Inversores Inmobiliarios",
     detalles:
@@ -55,9 +55,13 @@ const blogs = [
     date: "27",
     month: "Mar",
     year: "2023",
-    postby: "Admin",
+    postby: "Paulo Castro",
     comment: "3",
-    title: "Sheraton Broadway Plantation Resort Villas",
+    title: "Innovaciones en el Sector Inmobiliario: El Futuro Está Aquí",
+    detalles:
+      "<h3>Introducci&oacute;n</h3><p>El sector inmobiliario est&aacute; adoptando nuevas tecnolog&iacute;as y enfoques sostenibles para satisfacer las demandas modernas. Quinta Tawa en Sabandia, Arequipa, es un ejemplo de c&oacute;mo la innovaci&oacute;n, sostenibilidad y exclusividad est&aacute;n moldeando el futuro del desarrollo inmobiliario.</p><h3>Construcci&oacute;n Sostenible</h3><p>Quinta Tawa utiliza materiales ecol&oacute;gicos y t&eacute;cnicas de construcci&oacute;n que minimizan el impacto ambiental. La integraci&oacute;n de &aacute;reas verdes y pr&aacute;cticas sostenibles ofrece un entorno saludable y equilibrado para los residentes.</p><h3>Tecnolog&iacute;a Inteligente</h3><p>Los hogares en Quinta Tawa incorporan sistemas de dom&oacute;tica que mejoran la eficiencia energ&eacute;tica, la seguridad y la comodidad. La automatizaci&oacute;n de la iluminaci&oacute;n, el control de temperatura y los sistemas de seguridad avanzados hacen la vida diaria m&aacute;s c&oacute;moda y segura.</p><h3>Espacios Comunitarios Innovadores</h3><p>Quinta Tawa ofrece &aacute;reas comunes dise&ntilde;adas para fomentar la interacci&oacute;n social y el bienestar. Parques, &aacute;reas de recreaci&oacute;n y espacios para eventos comunitarios crean un ambiente de comunidad y pertenencia.</p><h3>Enfoque en la Seguridad</h3><p>Con un sistema de vigilancia las 24 horas del d&iacute;a, los 365 d&iacute;as del a&ntilde;o, Quinta Tawa garantiza la tranquilidad de sus residentes, permiti&eacute;ndoles disfrutar de su hogar con total confianza.</p><h3>Personalizaci&oacute;n del Hogar</h3><p>Quinta Tawa ofrece lotes desde 236.02 m&sup2;, brindando flexibilidad para dise&ntilde;ar y construir la casa de tus sue&ntilde;os, adaptada a tus necesidades y gustos &uacute;nicos.</p>",
+    frase:
+      "Invierte en el futuro del sector inmobiliario con Quinta Tawa: un hogar sostenible, inteligente y seguro en Sabandia, Arequipa.",
   },
   {
     id: "5",
@@ -67,9 +71,13 @@ const blogs = [
     date: "27",
     month: "Apr",
     year: "2023",
-    postby: "Admin",
+    postby: "Paulo Castro",
     comment: "3",
-    title: "Find cheap hotels in the best locations",
+    title: "Novedades y Eventos: Lo Último de Territorial",
+    detalles:
+      "<h3>Introducci&oacute;n</h3><p>En Quinta Tawa, siempre estamos emocionados de compartir las &uacute;ltimas novedades y eventos de Territorial. Como uno de los proyectos m&aacute;s destacados en Sabandia, Arequipa, nos enorgullece mantener a nuestra comunidad informada y conectada. Aqu&iacute; te presentamos lo m&aacute;s reciente que ha estado sucediendo en nuestro entorno.</p><h3>Nuevas Amenidades en Quinta Tawa</h3><p>Estamos encantados de anunciar la incorporaci&oacute;n de nuevas amenidades en Quinta Tawa. Nuestro objetivo es ofrecer a nuestros residentes un entorno c&oacute;modo y agradable. Recientemente hemos inaugurado:</p><ul><li><strong>Parques y &Aacute;reas Verdes</strong>: Espacios dise&ntilde;ados para el esparcimiento y la recreaci&oacute;n de toda la familia.</li><li><strong>Zonas de Picnic</strong>: Perfectas para disfrutar de una comida al aire libre rodeados de naturaleza.</li><li><strong>&Aacute;reas de Juego</strong>: Equipadas para la diversi&oacute;n y seguridad de los m&aacute;s peque&ntilde;os.</li></ul><h3>Eventos Comunitarios</h3><p>Creemos en la importancia de fomentar una comunidad unida y activa. Por eso, hemos organizado varios eventos para nuestros residentes:</p><ul><li><strong>Mercado de Agricultores</strong>: Un evento mensual donde los residentes pueden comprar productos frescos y locales.</li><li><strong>Talleres de Sostenibilidad</strong>: Sesiones educativas sobre pr&aacute;cticas sostenibles que pueden implementarse en el hogar.</li><li><strong>Fiestas de Temporada</strong>: Celebraciones para ocasiones especiales que re&uacute;nen a la comunidad en un ambiente festivo y acogedor.</li></ul><h3>Innovaciones Tecnol&oacute;gicas</h3><p>En Quinta Tawa, la tecnolog&iacute;a es una parte integral de nuestro proyecto. Hemos implementado sistemas avanzados para mejorar la calidad de vida de nuestros residentes:</p><ul><li><strong>Dom&oacute;tica</strong>: Automatizaci&oacute;n del hogar que permite controlar la iluminaci&oacute;n, temperatura y seguridad desde tu dispositivo m&oacute;vil.</li><li><strong>Conectividad Mejorada</strong>: Acceso a internet de alta velocidad para mantenerte siempre conectado.</li><li><strong>Seguridad Avanzada</strong>: Sistemas de vigilancia y control de acceso que garantizan la tranquilidad y seguridad de nuestros residentes.</li></ul><h3>Proyectos Fututos</h3><p>Estamos continuamente trabajando en nuevas ideas para mejorar Quinta Tawa. Algunos de los proyectos futuros incluyen:</p><ul><li><strong>Centro Comunitario</strong>: Un espacio dedicado a actividades comunitarias y eventos sociales.</li><li><strong>Senderos Naturales</strong>: Caminos para caminar y correr que permiten a los residentes disfrutar del entorno natural de manera segura.</li><li><strong>Energ&iacute;a Renovable</strong>: Planes para incorporar paneles solares y otras fuentes de energ&iacute;a renovable para reducir nuestra huella de carbono.</li></ul>",
+    frase:
+      "Descubre las últimas novedades y eventos en Quinta Tawa, donde la comunidad, la innovación y la sostenibilidad se unen para crear el hogar perfecto en Sabandia, Arequipa.",
   },
   {
     id: "6",
@@ -79,9 +87,13 @@ const blogs = [
     date: "27",
     month: "Nov",
     year: "2023",
-    postby: "Admin",
+    postby: "Julio vargas",
     comment: "3",
     title: "Book a room Today most Affordable Rates.",
+    detalles:
+      "<h3>Introducci&oacute;n</h3><p>En Quinta Tawa, sabemos que la compra de una propiedad es una de las decisiones m&aacute;s importantes que tomar&aacute;s. Por eso, queremos ayudarte a navegar por los aspectos legales y financieros esenciales que todo comprador debe conocer. Con esta gu&iacute;a, buscamos proporcionar la informaci&oacute;n necesaria para que tu inversi&oacute;n sea segura y exitosa.</p><h3>Aspectos Legales</h3><ol><li><p><strong>Due Diligence</strong></p><p>Antes de realizar cualquier compra, es vital llevar a cabo una investigaci&oacute;n exhaustiva o due diligence. Esto incluye verificar la legalidad de los t&iacute;tulos de propiedad y asegurarte de que no haya grav&aacute;menes o disputas legales sobre el terreno.</p></li><li><p><strong>Contrato de Compra-Venta</strong></p><p>El contrato de compra-venta debe ser revisado minuciosamente. Aseg&uacute;rate de que todos los t&eacute;rminos y condiciones est&eacute;n claramente especificados, incluyendo el precio de compra, el calendario de pagos y cualquier cl&aacute;usula adicional. Es recomendable contar con la asesor&iacute;a de un abogado especializado en bienes ra&iacute;ces.</p></li><li><p><strong>Permisos y Licencias</strong></p><p>Verifica que el proyecto cuente con todos los permisos y licencias necesarios. Esto incluye permisos de construcci&oacute;n, zonificaci&oacute;n y aprobaciones ambientales. En Quinta Tawa, nos aseguramos de cumplir con todas las normativas locales y nacionales.</p></li><li><p><strong>Reglamento Interno</strong></p><p>Conoce el reglamento interno del proyecto. Esto te dar&aacute; una idea de las normas de convivencia y las restricciones que podr&iacute;an aplicarse a tu propiedad.</p></li></ol><h3>Aspectos Financieros</h3><ol><li><p><strong>Presupuesto y Financiamiento</strong></p><p>Define claramente tu presupuesto antes de iniciar la b&uacute;squeda de una propiedad. Considera todos los costos asociados, incluyendo el precio de compra, impuestos, gastos notariales y posibles renovaciones. Investiga las opciones de financiamiento disponibles, como hipotecas y pr&eacute;stamos bancarios.</p></li><li><p><strong>Costos Adicionales</strong></p><p>No olvides considerar los costos adicionales que puedan surgir. Estos pueden incluir mantenimiento, cuotas de asociaci&oacute;n de propietarios y seguros. En Quinta Tawa, te proporcionamos una estimaci&oacute;n clara de todos los costos para que no haya sorpresas.</p></li><li><p><strong>Impuestos y Obligaciones Fiscales</strong></p><p>Inf&oacute;rmate sobre los impuestos asociados a la compra de una propiedad, como el Impuesto a la Transferencia de Propiedades y los impuestos prediales. Es importante cumplir con todas las obligaciones fiscales para evitar problemas legales en el futuro.</p></li><li><p><strong>Seguro de Propiedad</strong></p><p>Contratar un seguro de propiedad es una medida prudente para proteger tu inversi&oacute;n contra posibles da&ntilde;os o p&eacute;rdidas. Aseg&uacute;rate de elegir una p&oacute;liza que cubra todos los riesgos relevantes.</p></li></ol>",
+    frase:
+      "Asegura tu inversión con confianza en Quinta Tawa: conoce los aspectos legales y financieros esenciales para una compra de propiedad exitosa.",
   },
   /*  {
     "id": "7",
