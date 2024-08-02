@@ -51,12 +51,12 @@ export default function HeaderOne({ variant }) {
                                             <Page />
                                         </ul>
                                     </li>
-                                    <li className="menu-item-has-children"><a href="/room-modern">Proyectos</a>
+                                    {/* <li className="menu-item-has-children"><a href="/room-modern">Proyectos</a>
                                         <DropDown />
-                                        {/* <ul className="sub-menu">
+                                        <ul className="sub-menu">
                                             <Room />
-                                        </ul> */}
-                                    </li>
+                                        </ul> 
+                                    </li> */}
                                     <li className="menu-item-has-children"><a href="/blog-grid">Blog</a>
                                         <DropDown />
                                         {/* <ul className="sub-menu">
