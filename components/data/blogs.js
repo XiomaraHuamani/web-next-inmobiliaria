@@ -49,7 +49,7 @@ const blogs = [
   },
   {
     id: "4",
-    img: "/img/blog/blog-13.jpg",
+    img: "/img/blog/frame4.png",
     img1: "/img/blog/blog-11.jpg",
     img2: "/img/blog/blog-12.jpg",
     date: "27",
@@ -65,7 +65,7 @@ const blogs = [
   },
   {
     id: "5",
-    img: "/img/blog/blog-14.jpg",
+    img: "/img/blog/Frame5.png",
     img1: "/img/blog/blog-11.jpg",
     img2: "/img/blog/blog-12.jpg",
     date: "27",
@@ -81,7 +81,7 @@ const blogs = [
   },
   {
     id: "6",
-    img: "/img/blog/blog-15.jpg",
+    img: "/img/blog/Frame6.png",
     img1: "/img/blog/blog-11.jpg",
     img2: "/img/blog/blog-12.jpg",
     date: "27",
@@ -89,7 +89,7 @@ const blogs = [
     year: "2023",
     postby: "Julio vargas",
     comment: "3",
-    title: "Book a room Today most Affordable Rates.",
+    title: "Aspectos Legales y Financieros que Todo Comprador Debe Conocer.",
     detalles:
       "<h3>Introducci&oacute;n</h3><p>En Quinta Tawa, sabemos que la compra de una propiedad es una de las decisiones m&aacute;s importantes que tomar&aacute;s. Por eso, queremos ayudarte a navegar por los aspectos legales y financieros esenciales que todo comprador debe conocer. Con esta gu&iacute;a, buscamos proporcionar la informaci&oacute;n necesaria para que tu inversi&oacute;n sea segura y exitosa.</p><h3>Aspectos Legales</h3><ol><li><p><strong>Due Diligence</strong></p><p>Antes de realizar cualquier compra, es vital llevar a cabo una investigaci&oacute;n exhaustiva o due diligence. Esto incluye verificar la legalidad de los t&iacute;tulos de propiedad y asegurarte de que no haya grav&aacute;menes o disputas legales sobre el terreno.</p></li><li><p><strong>Contrato de Compra-Venta</strong></p><p>El contrato de compra-venta debe ser revisado minuciosamente. Aseg&uacute;rate de que todos los t&eacute;rminos y condiciones est&eacute;n claramente especificados, incluyendo el precio de compra, el calendario de pagos y cualquier cl&aacute;usula adicional. Es recomendable contar con la asesor&iacute;a de un abogado especializado en bienes ra&iacute;ces.</p></li><li><p><strong>Permisos y Licencias</strong></p><p>Verifica que el proyecto cuente con todos los permisos y licencias necesarios. Esto incluye permisos de construcci&oacute;n, zonificaci&oacute;n y aprobaciones ambientales. En Quinta Tawa, nos aseguramos de cumplir con todas las normativas locales y nacionales.</p></li><li><p><strong>Reglamento Interno</strong></p><p>Conoce el reglamento interno del proyecto. Esto te dar&aacute; una idea de las normas de convivencia y las restricciones que podr&iacute;an aplicarse a tu propiedad.</p></li></ol><h3>Aspectos Financieros</h3><ol><li><p><strong>Presupuesto y Financiamiento</strong></p><p>Define claramente tu presupuesto antes de iniciar la b&uacute;squeda de una propiedad. Considera todos los costos asociados, incluyendo el precio de compra, impuestos, gastos notariales y posibles renovaciones. Investiga las opciones de financiamiento disponibles, como hipotecas y pr&eacute;stamos bancarios.</p></li><li><p><strong>Costos Adicionales</strong></p><p>No olvides considerar los costos adicionales que puedan surgir. Estos pueden incluir mantenimiento, cuotas de asociaci&oacute;n de propietarios y seguros. En Quinta Tawa, te proporcionamos una estimaci&oacute;n clara de todos los costos para que no haya sorpresas.</p></li><li><p><strong>Impuestos y Obligaciones Fiscales</strong></p><p>Inf&oacute;rmate sobre los impuestos asociados a la compra de una propiedad, como el Impuesto a la Transferencia de Propiedades y los impuestos prediales. Es importante cumplir con todas las obligaciones fiscales para evitar problemas legales en el futuro.</p></li><li><p><strong>Seguro de Propiedad</strong></p><p>Contratar un seguro de propiedad es una medida prudente para proteger tu inversi&oacute;n contra posibles da&ntilde;os o p&eacute;rdidas. Aseg&uacute;rate de elegir una p&oacute;liza que cubra todos los riesgos relevantes.</p></li></ol>",
     frase:
