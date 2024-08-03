@@ -10,6 +10,11 @@ import Paulo from '@/public/img/asesores/PauloG.png';
 
 const teams = [
     {
+        name: "Paulo Castro",
+        status: "Asesor comercial",
+        img: Paulo
+    },
+    {
         name: "Julio Vargas",
         status: "Asesor comercial",
         img: Julio
@@ -19,11 +24,7 @@ const teams = [
         status: "Asesor comercial",
         img: Patricia
     },
-    {
-        name: "Paulo Castro",
-        status: "Asesor comercial",
-        img: Paulo
-    },
+
     // {
     //     name: "David Fincher",
     //     status: "Senior Member",

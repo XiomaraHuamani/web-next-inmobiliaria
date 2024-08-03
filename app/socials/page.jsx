@@ -6,7 +6,7 @@ const Social = () => {
       <ul>
         <li>
           <Link href="https://web.facebook.com/territorialinmobiliariaperu/?locale=es_LA&_rdc=1&_rdr" target="_blank">
-            <i className="fab fa-facebook-f"></i>
+            <i className="fab fa-facebook-f text-white"></i>
           </Link>
         </li>
         {/* <li>
@@ -21,12 +21,12 @@ const Social = () => {
         </li> */}
         <li>
           <Link href="https://www.tiktok.com/@territorial.inmobiliaria" target="_blank">
-            <i className="fab fa-tiktok"></i>
+            <i className="fab fa-tiktok text-white"></i>
           </Link>
         </li>
         <li>
           <Link href="https://www.linkedin.com/company/territorial-inmobiliaria/" target="_blank">
-            <i className="fab fa-linkedin-in"></i>
+            <i className="fab fa-linkedin-in text-white"></i>
           </Link>
         </li>
       </ul>

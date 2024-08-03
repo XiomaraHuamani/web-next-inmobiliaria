@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { Blog, Home, Page, Room } from "./Menu";
 import DropDown from "./DropDown";
+import Social from "../socials/page";
 import Link from "next/link";
 
 export default function HeaderOne({ variant }) {
@@ -38,7 +39,7 @@ export default function HeaderOne({ variant }) {
                         <div className="header__area-menubar-right">
                             <div className="header__area-menubar-right-menu menu-responsive">
                                 <ul className="mobile__menu" style={{ display: `${mobileToggle ? "block" : "none"}` }}>
-                                
+
                                     <li className="menu-item-has-children"><a href="/">Inicio</a>
                                         <DropDown />
                                         {/* <ul className="sub-menu">
@@ -70,8 +71,11 @@ export default function HeaderOne({ variant }) {
                             </div>
                         </div>
                         <div className="header__area-menubar-right-box">
-                            <div className="header__area-menubar-right-box-btn">
+                            {/*       <div className="header__area-menubar-right-box-btn">
                                 <Link className="theme-btn" href="/contact">Contactanos<i className="fal fa-long-arrow-right"></i></Link>
+                            </div> */}
+                            <div className="footer__area-widget-about-social text-white">
+                                <Social />
                             </div>
                         </div>
                     </div>
