@@ -2969,7 +2969,7 @@ Menu Bar
   display: inline-block;
 }
 .header__area-menubar-left-logo a img {
-  max-width: 150px;
+  max-width: 250px;
   position: relative;
   z-index: 999;
 }
