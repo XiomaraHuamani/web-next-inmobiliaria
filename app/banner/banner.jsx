@@ -6,7 +6,7 @@ const Banner = () => {
   return (
     <div
       className="banner__area"
-      style={{ backgroundImage: `url(/img/banner/baner-header.svg` }}
+      style={{ backgroundImage: `url(/img/banner/header_territorial.webp)` }}
       >
       <div className="container">
         <BannerContent />
