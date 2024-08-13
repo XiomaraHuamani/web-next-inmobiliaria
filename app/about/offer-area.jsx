@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import disponibilidad from "../../public/img/quinta-tawa/terreno-disponibilidad.svg";
+import disponibilidad from "../../public/img/quinta-tawa/disponibilidad_terrenos.png";
 
 const Offerarea = () => {
   return (
@@ -12,7 +12,12 @@ const Offerarea = () => {
               <div className="offers__area-title">
                 {/* <span className="subtitle__one">Terrenos</span>
                 <h2>Quinta Tawa</h2> */}
-                <Image src="/img/quinta-tawa/logo.svg" alt="" width={450} height={250} style={{paddingBottom: '50px'}}/>
+                <Image 
+                  className=""
+                  src="/img/quinta-tawa/logotawa.png" 
+                  alt="" width={450} height={250} 
+                  style={{paddingBottom: '50px'}}
+                />
                 <p>
                 <h3 style={{paddingBottom: '20px'}}>Vive la Exclusividad en un Entorno Natural y Seguro</h3>
                 Bienvenido a Quinta Tawa, uno de los proyectos inmobiliarios más destacados de Territorial, 
