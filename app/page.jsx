@@ -22,7 +22,7 @@ export default function Home() {
         <Videoarea />
         <Services />
         <Feature />
-        <Testimonial />
+        {/* <Testimonial /> */}
         <Blog />
         <Footer />
         <ScrollToTopButton />
