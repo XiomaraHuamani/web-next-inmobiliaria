@@ -1,5 +1,3 @@
-import hotel1 from "@/public/img/hotel/hotel-1.jpg";
-import hotel2 from "@/public/img/hotel/hotel-2.jpg";
 import terreno1 from "@/public/img/terrenos/terreno1.png";
 import terreno2 from "@/public/img/terrenos/terreno2.png";
 import Image from "next/image";

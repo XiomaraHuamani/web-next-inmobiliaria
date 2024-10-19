@@ -17,7 +17,7 @@ import Teamarea from "./team-area";
 const Home3 = () => {
   return (
     <>
-      <SEO pageTitle='Home Three' />
+      {/* <SEO pageTitle='Home Three' />
         <HeaderThree />
         <Banner />
         <Deluxe />
@@ -30,7 +30,7 @@ const Home3 = () => {
         <Placearea />
         <Bandarea />
         <Footer />
-        <ScrollToTopButton />
+        <ScrollToTopButton /> */}
     </>
   );
 };

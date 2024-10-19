@@ -14,13 +14,13 @@ const Deluxe = () => {
               <h2>Luxury Rooms</h2>
             </div>
           </div>
-          <div className="col-xl-6 col-md-4">
+          {/* <div className="col-xl-6 col-md-4">
             <div className="deluxe__two-btn t-right md-t-left">
               <Link className="theme-border-btn" href="/room-list">
                 Al room's<i className="fal fa-long-arrow-right"></i>
               </Link>
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="row">
           {roomItem.map((item, index) => (

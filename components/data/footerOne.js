@@ -7,7 +7,7 @@ const footerOne = {
         {link:'/about',title:'Inicio'},
         {link:'/blog-grid',title:'Propiedades'},
         {link:'/contact',title:'Proyectos'},
-        {link:'/room-list',title:'Contacto'},
+        // {link:'/room-list',title:'Contacto'},
     ],
     title_3: 'Gallery',
     title_4: 'Office Info',

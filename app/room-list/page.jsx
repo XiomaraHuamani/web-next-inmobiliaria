@@ -11,7 +11,7 @@ const Roomlist = () => {
       <SEO pageTitle='Room List' />
         <HeaderOne />
         <BreadCrumb title='Room List' innerTitle='Room List' bgImage='/img/banner/page-banner-7.jpg' />
-        <Roomlistblogs />
+        {/* <Roomlistblogs /> */}
         <Footer />
         <ScrollToTopButton />
     </>
